@@ -1,3 +1,9 @@
 body {
     background-color: red; color: blueviolet;}
+
 h1 {background-color: aquamarine;}
+
+main {background-color: bisque;
+width: 70%;
+margin:0 auto;
+}
